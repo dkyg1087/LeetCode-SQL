@@ -20,4 +20,5 @@ This is all the sql code I wrote on LeetCode with the title as the filename.
 - [No 1378. Replace Employee ID With The Unique Identifier](src/Basic_Joins/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql)
 - [No 1581. Customer Who Visited but Did Not Make Any Transactions](src/Basic_Joins/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
 - [No 1661. Average Time of Process per Machine](src/Basic_Joins/1661_Average_Time_of_Process_per_Machine.sql)
+- [No 1934. Confirmation Rate](src/Basic_Joins/1934_Confirmation_Rate.sql)
 
