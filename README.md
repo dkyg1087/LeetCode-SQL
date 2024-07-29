@@ -13,6 +13,7 @@ This is all the sql code I wrote on LeetCode with the title as the filename.
 
 ### Basic Joins
 - [No 197. Rising Temperature](src/Basic_Joins/197_Rising_Temperature.sql)
+- [No 570. Managers with at Least 5 Direct Reports](src/Basic_Joins/570_Managers_with_at_Least_5_Direct_Reports.sql)
 - [No 577. Employee Bonus](src/Basic_Joins/577_Employee_Bonus.sql)
 - [No 1068. Product Sales Analysis I](src/Basic_Joins/1068_Product_Sales_Analysis_I.sql)
 - [No 1280. Students and Examinations](src/Basic_Joins/1280_Students_and_Examinations.sql)
