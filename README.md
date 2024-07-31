@@ -22,3 +22,8 @@ This is all the sql code I wrote on LeetCode with the title as the filename.
 - [No 1661. Average Time of Process per Machine](src/Basic_Joins/1661_Average_Time_of_Process_per_Machine.sql)
 - [No 1934. Confirmation Rate](src/Basic_Joins/1934_Confirmation_Rate.sql)
 
+### Basic Aggregate Functions
+
+- [No 620. Not Boring Movies](src/Basic_Aggregate_Functions/620_Not_Boring_Movies.sql)
+- [No 1075. Project Employees I](src/Basic_Aggregate_Functions/1075_Project_Employees_I.sql)
+- [No 1251. Average Selling Price](src/Basic_Aggregate_Functions/1251_Average_Selling_Price.sql)
