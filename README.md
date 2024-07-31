@@ -27,3 +27,4 @@ This is all the sql code I wrote on LeetCode with the title as the filename.
 - [No 620. Not Boring Movies](src/Basic_Aggregate_Functions/620_Not_Boring_Movies.sql)
 - [No 1075. Project Employees I](src/Basic_Aggregate_Functions/1075_Project_Employees_I.sql)
 - [No 1251. Average Selling Price](src/Basic_Aggregate_Functions/1251_Average_Selling_Price.sql)
+- [No 1633. Percentage of Users Attended a Contest](src/Basic_Aggregate_Functions/1633_Percentage_of_Users_Attended_a_Contest.sql)
