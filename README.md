@@ -12,6 +12,7 @@ This is all the sql code I wrote on LeetCode with the title as the filename.
 - [No 1757. Recyclable and Low Fat Products](src/Select/1757_Recyclable_and_Low_Fat_Products.sql)
 
 ### Basic Joins
+- [No 175. Combine Two Tables](src/Basic_Joins/175_Combine_Two_Tables.sql)
 - [No 197. Rising Temperature](src/Basic_Joins/197_Rising_Temperature.sql)
 - [No 570. Managers with at Least 5 Direct Reports](src/Basic_Joins/570_Managers_with_at_Least_5_Direct_Reports.sql)
 - [No 577. Employee Bonus](src/Basic_Joins/577_Employee_Bonus.sql)
